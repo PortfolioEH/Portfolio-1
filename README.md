@@ -24,7 +24,7 @@
 - 各作品に合う色のトーンやフォントを意識
 
 ## 🔗 リンク
-- 公開サイト:[https://portmind.web.fc2.com/Portfolio_MatsuokaEimi_R03.pdf]
+- 公開サイト:[https://portmind.web.fc2.com/Portfolio_MatsuokaEimi.pdf]
 - 制作した架空のカフェサイト:[https://portmind.web.fc2.com/cafe/index.html]
 - 制作した趣味の観光サイト:[https://portmind.web.fc2.com/mind-travel/index.html]
 - GitHub:[https://github.com/Matsuoka-Eimi/Portfolio/tree/local]
